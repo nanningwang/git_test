@@ -1,0 +1,1 @@
+Currently learning and understanding how to use git and github. Project contains cookie recipes which I've made that turned out nice.
